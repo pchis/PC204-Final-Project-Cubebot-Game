@@ -1,5 +1,5 @@
 # PC204-Final-Project-Cubebot-Game
-Final project for UCSF class introducing object oriented programming through Python. See below for Project requirements, Project object/description, accomplishments, future goals, and setup.
+This is the final project for a UCSF class which introduced the basics of object oriented programming through Python. See below for the project requirements, project object/description, accomplishments, future goals, and setup.
 
 Project Requirements (from course website https://www.cgl.ucsf.edu/Outreach/pc204/project.html):
 The requirements listed here are intentionally fairly general so as to maximize the flexibility you have. All will be discussed in class prior to the end of the quarter and most have been the topic of homework problems.
